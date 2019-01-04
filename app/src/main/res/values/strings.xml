@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ci FB Match Apps</string>
+
+    <string name="prev_match">Prev Match</string>
+    <string name="next_match">Next Match</string>
+    <string name="english_premier_league">English Premier League</string>
+    <string name="german_bundes_liga">German Bundes Liga</string>
+    <string name="italian_serie_a">Italian Serie A</string>
+    <string name="freanch_league_1">Freanch League 1</string>
+    <string name="spanish_la_liga">Spanish La Liga</string>
+    <string name="strip">-</string>
+    <string name="vs">VS</string>
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="lineups">Lineups</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="subtitutes">Subtitutes</string>
+    <string name="favorite">Favorite</string>
+</resources>
